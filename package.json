@@ -1,0 +1,20 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "Practicando js asincrono.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nora-programadora/async-landing.git"
+  },
+  "keywords": [],
+  "author": "Nora Aguirre <nora.programadora@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nora-programadora/async-landing/issues"
+  },
+  "homepage": "https://github.com/nora-programadora/async-landing#readme"
+}
